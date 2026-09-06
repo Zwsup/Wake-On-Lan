@@ -30,7 +30,7 @@ Paste your MAC addresses into the text box and click the "Tümünü Uyandır (Br
 
 
 ---------------------------------------------------------------------------------------------------
-[Türkçe Açıklama] 
+[Türkçe Açıklama](#türkçe-açıklama) 
 
 # Toplu Wake-on-LAN (WoL) Tetikleyici
 
