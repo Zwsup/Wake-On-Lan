@@ -8,6 +8,7 @@ Instead of manually formatting MAC addresses, you can paste raw logs or mixed te
 
 ### Features
 * **Smart Extraction:** Paste any raw text; the app automatically finds and extracts valid MAC addresses (e.g., `AA:BB:CC:DD:EE:FF` or `AA-BB-CC-DD-EE-FF`).
+* **Profile Manager:** Save frequently used MAC address groups (labs, offices) as JSON profiles and load them with a single click.
 * **Duplicate Prevention:** Uses `Set` logic to ensure a magic packet is sent only once per unique MAC address.
 * **Non-Freezing UI:** Network operations run on a separate daemon thread, preventing the application from freezing during bulk broadcasts.
 * **Modern Interface:** Built with CustomTkinter for a clean, dark-mode desktop experience.
@@ -41,6 +42,8 @@ Paste your MAC addresses into the text box and click the "Tümünü Uyandır (Br
 # Özellikler
 
 -Akıllı Ayıklama: Herhangi bir metni yapıştırın; uygulama sadece geçerli MAC adreslerini (örn: AA:BB:CC:DD:EE:FF veya AA-BB-CC-DD-EE-FF) bulup kullanır.
+
+-Profil Yöneticisi: Sık kullanılan cihaz gruplarını JSON formatında kaydedip tek tıkla geri yükleyin.
 
 -Çift Kayıt Engelleme (Deduplication): Aynı MAC adresi birden fazla yazılsa bile sadece bir kez paket gönderilir.
 
